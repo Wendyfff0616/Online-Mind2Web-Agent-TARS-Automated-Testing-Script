@@ -1,0 +1,27 @@
+# Agent TARS 运行产生的文件
+images/
+results/
+*.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统文件
+Thumbs.db
+*.tmp
